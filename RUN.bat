@@ -1,4 +1,6 @@
 call waitforpython.bat
 timeout 1
-call waitforpython.bat
-git -v
+git add .
+git commit -m "Daily Commit"
+git push
+pause
