@@ -1,1 +1,1 @@
-script.py
+python script.py
